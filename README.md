@@ -87,11 +87,27 @@ Data barang disimpan menggunakan array PHP tanpa menggunakan database.
 
 **2. Data Barang**
 
-![Data Barang](screenshots/data-barang.png)
+![Data Barang](screenshots/data%20barang.png)
 
-**3. Analisis Persediaan**
+**3. Detail Barang**
 
-![Analisis Persediaan](screenshots/analisis-persediaan.png)
+![Detail Barang](screenshots/detail%20barang.png)
+
+**4. Analisis Persediaan**
+
+![Analisis Persediaan](screenshots/analisis%20persediaan.png)
+
+**5. Data Tidak Valid**
+
+![Data Tidak Valid](screenshots/data%20tidak%20valid.png)
+
+**6. Halaman Tentang**
+
+![Tentang](screenshots/tentang.png)
+
+**7. Route List**
+
+![Route List](screenshots/route%20list.png)
 
 ### Cara Menjalankan Aplikasi
 
