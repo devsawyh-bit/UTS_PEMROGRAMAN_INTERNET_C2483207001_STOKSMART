@@ -77,4 +77,51 @@ Jika hasilnya kurang dari 0, kebutuhan pengadaan ditetapkan menjadi 0.
 - Bootstrap
 - Blade Template
 
-Data barang
+Data barang disimpan menggunakan array PHP tanpa menggunakan database.
+
+### Screenshot Aplikasi
+
+**1. Dashboard**
+
+![Dashboard](screenshots/dashboard.png)
+
+**2. Data Barang**
+
+![Data Barang](screenshots/data-barang.png)
+
+**3. Analisis Persediaan**
+
+![Analisis Persediaan](screenshots/analisis-persediaan.png)
+
+### Cara Menjalankan Aplikasi
+
+1. Clone repository ini.
+2. Masuk ke folder project.
+3. Jalankan perintah:
+
+```bash
+composer install
+```
+
+4. Salin file `.env.example` menjadi `.env`.
+5. Jalankan perintah:
+
+```bash
+php artisan key:generate
+```
+
+6. Jalankan aplikasi:
+
+```bash
+php artisan serve
+```
+
+7. Buka browser dan akses:
+
+```text
+http://127.0.0.1:8000
+```
+
+---
+
+**StokSmart — Sistem Analisis Persediaan dan Rekomendasi Pengadaan Barang**
